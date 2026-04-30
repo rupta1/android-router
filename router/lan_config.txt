@@ -1,0 +1,4 @@
+SSID=FTTH-E23
+PASS=
+SEC=open
+BAND=2

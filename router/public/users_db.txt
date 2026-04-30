@@ -1,0 +1,4 @@
+user1:1234:1mbit:30:100
+user2:1234:unlimited:unlimited:unlimited
+user3:1234:unlimited:30:100
+user4:1234:10mbit:120:1024
