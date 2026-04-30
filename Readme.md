@@ -94,7 +94,7 @@ File:
 Default:
 
 ```
-admin:admin
+admin:admin@123
 ```
 
 ---
